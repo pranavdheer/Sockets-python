@@ -30,9 +30,3 @@ while (1):
      if len(mymsg) == msg_size:
        new_msg=True
        print(mymsg)
-
-
-
-
-
-print(mymsg)
